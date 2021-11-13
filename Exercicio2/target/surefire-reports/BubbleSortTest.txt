@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: BubbleSortTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.031 s <<< FAILURE! - in BubbleSortTest
+porcentagens  Time elapsed: 0.031 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <[5, 3, 2, 4, 7, 1, 0, 6]> but was: <[0, 1, 2, 3, 4, 5, 6, 7]>
+	at BubbleSortTest.porcentagens(BubbleSortTest.java:16)
+
