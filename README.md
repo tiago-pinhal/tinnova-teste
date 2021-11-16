@@ -8,13 +8,17 @@ Candidato: Tiago Pinhal
  - [x] Exercicio 4
  - [ ] Exercicio 5
     - [ Backend ] 
-        - Todo:  Validar marca fornecida
-	- [ FrontEnd] 
-        - Todo:  Janela de Inserir e editar veículo, relatório de distribuição por fabricante e década de fabricação. Os endpoints dessas janelas estão prontos no backend 
+		- [x] Banco de dados e Endpoints Rest da aplicação
+        - To-do: Validar marca fornecida
+	- [ FrontEnd ] 
+		- [x] Estrutura Single Page Application
+		- [x] Relatório de veículos cadastrado e cadastro durante a última semana.
+		- [x] Exclusão de registro
+        - To-do: Janela de Inserir e editar veículo, relatório de distribuição por fabricante e década de fabricação. Faltaram somente essas janelas, os endpoints estão prontos no backend 
 
 
 **Notas:**
-Frontend desenvolvido com nuxtjs
+Frontend desenvolvido com Nuxtjs
 ```bash
 
 # Instalar dependencias do frontend:
