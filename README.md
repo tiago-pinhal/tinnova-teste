@@ -10,17 +10,17 @@ Candidato: Tiago Pinhal
     - [ Backend ] 
         - Todo:  Validar marca fornecida
 	- [ FrontEnd] 
-        - Todo:  Janela de Inserir e editar veículo, 
+        - Todo:  Janela de Inserir e editar veículo, relatório de distribuição por fabricante e década de fabricação. Os endpoints dessas janelas estão prontos no backend 
 
 
 **Notas:**
 Frontend desenvolvido com nuxtjs
 ```bash
 
-# install dependencies
+# Instalar dependencias do frontend:
 
 $ yarn install
 
-# serve at localhost:3000
+# Rodar aplicação em localhost:3000:
 
 $ yarn dev
